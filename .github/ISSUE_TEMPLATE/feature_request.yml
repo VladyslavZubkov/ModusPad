@@ -1,0 +1,11 @@
+name: Feature request
+description: An idea for ModusPad
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like ModusPad to do?
+      description: And what would it help you with?
+    validations:
+      required: true
