@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  14-day Pro trial included · No credit card required<br>
+  Full access for 14 days · No credit card required<br>
   Requires macOS 26 or later · Signed & Notarized by Apple
 </p>
 
@@ -61,9 +61,8 @@ ModusPad updates itself. Homebrew: coming to the official cask.
 
 ## Pricing
 
-Every feature is free for 14 days. After the trial, ModusPad keeps working as **ModusPad Free** — your launcher stays as
-you set it up; changing it needs **ModusPad Pro**, a one-time purchase for 1, 3 or 5 Macs.
-[See prices](https://moduspad.com/#pricing).
+Try every feature free for 14 days. Then a one-time purchase for 1, 3 or 5 Macs —
+[see prices](https://moduspad.com/#pricing).
 
 ## Feedback
 
