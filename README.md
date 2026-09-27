@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Full access for 14 days · No credit card required<br>
+  14-day free trial · No credit card required<br>
   Requires macOS 26 or later · Signed & Notarized by Apple
 </p>
 
