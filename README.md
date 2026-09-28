@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Your Mac adapts to what you're doing.</b><br>
-  The Launchpad you lost — plus profiles that switch your apps, launcher layout and Focus automatically.
+  The Launchpad you lost — plus profiles that switch your apps and launcher layout by Focus, display or time.
 </p>
 
 <p align="center">
