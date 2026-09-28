@@ -61,7 +61,7 @@ ModusPad updates itself. Homebrew: coming to the official cask.
 
 ## Pricing
 
-Try every feature free for 14 days. Then a one-time purchase for 1, 3 or 5 Macs —
+Try every feature free for 14 days. Then a one-time purchase for 1, 2 or 5 Macs —
 [see prices](https://moduspad.com/#pricing).
 
 ## Feedback
