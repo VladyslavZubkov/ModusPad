@@ -37,18 +37,18 @@ itself.
 - **A full-screen launcher, back where it belongs.** Pages, folders, search and drag & drop. Bring over your old Launchpad
   layout in one click.
 - **Profiles for every kind of work.** Work, Personal, Gaming: each profile has its own launcher layout, its own hidden
-  apps and the apps it opens.
+  apps and the apps it opens — and runs your shortcuts from the Shortcuts app when it turns on or off.
 - **Switches by itself.** Turn a profile on by schedule, when a display is connected, or when a Focus mode starts — or
   give it its own keyboard shortcut.
 - **Smart folders.** Folders that fill themselves by your rules: name, category, version, architecture, when an app was
   installed or last opened, how often you launch it.
-- **Open it your way.** A hotkey, F4, a hot corner or a trackpad gesture.
+- **Open it your way.** A hotkey, F4, a hot corner, the notch or a trackpad gesture.
 - **Native and private.** Built in Swift for macOS 26 and 27, in English, Deutsch, Français and 日本語. No account, no
   tracking — your layouts stay on your Mac. ModusPad never deletes or moves anything on disk.
 
 <p align="center">
   <img src="images/profile-work.webp" width="400" alt="The Work profile's launcher">
-  <img src="images/rules.webp" width="400" alt="A profile's rules: shortcut, Focus, working hours">
+  <img src="images/rules.webp" width="400" alt="A profile's rules in Settings: shortcut, Focus, working hours">
 </p>
 
 ## Install
@@ -62,7 +62,8 @@ ModusPad updates itself. Homebrew: coming to the official cask.
 ## Pricing
 
 Try every feature free for 14 days. Then a one-time purchase for 1, 2 or 5 Macs —
-[see prices](https://moduspad.com/#pricing).
+[see prices](https://moduspad.com/#pricing). After the trial, ModusPad keeps working with some limitations —
+[see what changes](https://moduspad.com/after-trial?utm_source=github).
 
 ## Feedback
 
