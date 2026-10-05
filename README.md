@@ -18,7 +18,7 @@
 
 <p align="center">
   14-day free trial · No credit card required<br>
-  Requires macOS 26 or later · Signed & Notarized by Apple
+  Requires macOS 26 or later · Notarized by Apple
 </p>
 
 <p align="center">
